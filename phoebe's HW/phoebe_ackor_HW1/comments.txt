@@ -1,3 +1,6 @@
 phoebe ackor 
-what went well 
-what went poorly 
+challenge 3
+what went well:
+Organizing my collums with gradually decreasing colors once I figured out the line of code i needed for my HSL.
+what went poorly:
+Little things like forgetting to put percentage symbols or figuring out the initial HSL code.
