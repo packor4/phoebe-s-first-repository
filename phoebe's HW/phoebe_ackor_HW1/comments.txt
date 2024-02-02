@@ -1,4 +1,14 @@
 phoebe ackor 
+challenge 1
+what went well:
+Creating the rects and applying the fill (color).
+what went poorly:
+Nothing went poorly.
+challenge 2
+what went well:
+Turing the initial rects into ellipses and applying fill (color).
+what went poorly:
+It was a bit difficult arranging my ellipses to fit perfectly by tweaking numbers.
 challenge 3
 what went well:
 Organizing my collums with gradually decreasing colors once I figured out the line of code i needed for my HSL.
