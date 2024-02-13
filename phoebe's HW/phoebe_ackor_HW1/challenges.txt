@@ -1,9 +1,9 @@
 phoebe ackor
-challenge 1
+challenge 1 (gridded intital with squares)
 https://editor.p5js.org/phoebeackor/full/oaKgSQPD0
-challenge 2
+challenge 2 (gridded initial with circles) 
 https://editor.p5js.org/phoebeackor/full/YU6ICeNFE
-challenge 3
+challenge 3 (gradient initial)
 https://editor.p5js.org/phoebeackor/full/QneCjrqRx
-challenge 4
+challenge 4 (gradient initialvariable)
 https://editor.p5js.org/phoebeackor/full/06UaNqEfm
