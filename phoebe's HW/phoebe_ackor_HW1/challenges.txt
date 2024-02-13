@@ -5,3 +5,5 @@ challenge 2
 https://editor.p5js.org/phoebeackor/full/YU6ICeNFE
 challenge 3
 https://editor.p5js.org/phoebeackor/full/QneCjrqRx
+challenge 4
+https://editor.p5js.org/phoebeackor/full/06UaNqEfm
